@@ -1,2 +1,2 @@
 # hello-world
-First repository
+I was so bored during COVID-19 at home so I wake up in a morning, the same as the prvious and probably the next one, and decided to keep record of my self-taught ML journey.
